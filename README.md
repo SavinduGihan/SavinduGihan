@@ -1,4 +1,4 @@
-# Hi, I'm Savindu 👋
+# Hi, I'm Savindu 👋🏽
 
 IT Undergraduate @ University of Moratuwa  
 Exploring programming, problem solving, and building things
