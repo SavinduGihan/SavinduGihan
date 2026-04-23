@@ -17,4 +17,6 @@ Sri Lanka
 ---
 
 ### GitHub Stats
-![Savindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SavinduGihan&show_icons=true&theme=dark&cache_seconds=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SavinduGihan&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SavinduGihan&layout=compact&theme=dark&hide_border=true)
