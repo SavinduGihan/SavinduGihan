@@ -17,4 +17,4 @@ Exploring programming, problem solving, and building things
 ---
 
 ### 📊 GitHub Stats
-![Savindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SavinduGihan&show_icons=true&theme=dark)
+![Savindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SavinduGihan&show_icons=true&theme=dark&cache_seconds=1)
