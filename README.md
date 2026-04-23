@@ -1,14 +1,14 @@
-# Hi, I'm Savindu 👋
+# Hi, I'm Savindu
 
 IT Undergraduate @ University of Moratuwa  
 Exploring programming, problem solving, and building things
 
-🌱 Currently learning C and Python  
-📍 Sri Lanka  
+Currently learning C and Python  
+Sri Lanka  
 
 ---
 
-### 🛠️ Skills
+### Skills
 - C Programming
 - Python
 - HTML & CSS
@@ -16,5 +16,5 @@ Exploring programming, problem solving, and building things
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Savindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SavinduGihan&show_icons=true&theme=dark&cache_seconds=1)
