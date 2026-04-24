@@ -1,22 +1,111 @@
-# Hi, I'm Savindu 👋🏽
+what i ll do now<div align="center">
 
-IT Undergraduate @ University of Moratuwa  
-Exploring programming, problem solving, and building things
+# 👋 Hey there, I'm Savindu Gihan
 
-Currently learning C and Python  
-Sri Lanka  
+**IT Undergraduate @ University of Moratuwa, Sri Lanka**
 
----
+*Exploring programming, problem solving, and building practical projects*
 
-### Skills
-- C Programming
-- Python
-- HTML & CSS
-- Git & GitHub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/savindugihan)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SavinduGihan)
+
+</div>
 
 ---
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SavinduGihan&show_icons=true&theme=dark&hide_border=true)
+## 🙋‍♂️ About Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SavinduGihan&layout=compact&theme=dark&hide_border=true)
+🎓 IT Undergraduate at **University of Moratuwa**
+
+🌱 Currently learning **C** and **Python**
+
+💡 Passionate about **problem solving** and building **practical projects**
+
+📍 Based in **Sri Lanka**
+
+😄 Pronouns: **he/him**
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SavinduGihan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavinduGihan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
+
+<img src="https://streak-stats.demolab.com/?user=SavinduGihan&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## 📁 Featured Repositories
+
+🎓 [**University-Beginner-programs**](https://github.com/SavinduGihan/University-Beginner-programs)
+
+Programs and exercises from my university coursework
+
+💻 [**Personal-Beginner-programs**](https://github.com/SavinduGihan/Personal-Beginner-programs)
+
+Personal coding practice and experiments
+
+---
+
+## 🌱 Currently Working On
+
+📘 Mastering **C programming** fundamentals
+
+🐍 Building projects with **Python**
+
+🌐 Improving my **HTML & CSS** skills
+
+🔧 Learning best practices with **Git & GitHub**
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/savindugihan)
+
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SavinduGihan)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Every expert was once a beginner."*
+
+⭐ **If you find my work interesting, feel free to star my repositories!** ⭐
+
+![Profile Views](https://komarev.com/ghpvc/?username=SavinduGihan&color=blueviolet&style=for-the-badge)
+
+</div>
