@@ -53,6 +53,9 @@ Programs and exercises from my university coursework
 💻 [**Personal-Beginner-programs**](https://github.com/SavinduGihan/Personal-Beginner-programs)
 Personal coding practice and experiments
 
+🧩 [**LeetCode-Solutions**](https://github.com/SavinduGihan/LeetCode-Solutions)
+Personal LeetCode problem solutions
+
 ---
 
 ## Currently Working On
@@ -61,6 +64,7 @@ Personal coding practice and experiments
 🐍 Building projects with **Python**
 🌐 Improving **HTML & CSS** skills
 🔧 Learning best practices with **Git & GitHub**
+🧩 Solving **LeetCode** problems daily
 
 ---
 
