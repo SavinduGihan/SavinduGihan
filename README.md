@@ -4,7 +4,7 @@
 
 **IT Undergraduate @ University of Moratuwa, Sri Lanka**
 
-*Exploring programming, problem solving, and building practical projects*
+*Learning programming, solving problems, and building practical projects*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/savindugihan)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SavinduGihan)
@@ -15,10 +15,10 @@
 
 ## About Me
 
-🎓 IT Undergraduate at **University of Moratuwa**
-🌱 Currently learning **C** and **Python**
-💡 Passionate about **problem solving** and building **practical projects**
-📍 Based in **Sri Lanka**
+- 🎓 IT Undergraduate at **University of Moratuwa**
+- 🌱 Currently learning **C** and **Python**
+- 💡 Interested in **problem solving**, **programming fundamentals**, and **practical projects**
+- 📍 Based in **Sri Lanka**
 
 ---
 
@@ -47,30 +47,39 @@
 
 ## Featured Repositories
 
-🎓 [**University-Beginner-programs**](https://github.com/SavinduGihan/University-Beginner-programs)
-Programs and exercises from my university coursework
+### 🎓 [University-Beginner-programs](https://github.com/SavinduGihan/University-Beginner-programs)
+Programs and exercises from my university coursework.
 
-💻 [**Personal-Beginner-programs**](https://github.com/SavinduGihan/Personal-Beginner-programs)
-Personal coding practice and experiments
+### 💻 [Personal-Beginner-programs](https://github.com/SavinduGihan/Personal-Beginner-programs)
+Personal coding practice, experiments, and beginner projects.
 
-🧩 [**LeetCode-Solutions**](https://github.com/SavinduGihan/LeetCode-Solutions)
-Personal LeetCode problem solutions
+### 🧩 [LeetCode-Solutions](https://github.com/SavinduGihan/LeetCode-Solutions)
+My personal LeetCode problem solutions.
 
 ---
 
 ## Currently Working On
 
-📘 Mastering **C programming** fundamentals
-🐍 Building projects with **Python**
-🌐 Improving **HTML & CSS** skills
-🔧 Learning best practices with **Git & GitHub**
-🧩 Solving **LeetCode** problems daily
+- 📘 Mastering **C programming** fundamentals
+- 🐍 Building beginner-friendly projects with **Python**
+- 🌐 Improving **HTML & CSS** skills
+- 🔧 Learning best practices with **Git & GitHub**
+- 🧩 Solving **LeetCode** problems regularly
+
+---
+
+## Goals
+
+- Build more practical projects
+- Improve problem-solving skills
+- Learn core computer science fundamentals
+- Become more confident with software development workflows
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/savindugihan)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SavinduGihan)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/savindugihan)
+[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SavinduGihan)
 
 </div>
