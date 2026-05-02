@@ -83,7 +83,6 @@ My personal collection of LeetCode problem solutions.
 - Build more practical and useful projects
 - Improve my problem-solving skills
 - Learn core computer science fundamentals
-- Become confident with real-world software development workflows
 - Keep growing as a developer step by step
 
 ---
