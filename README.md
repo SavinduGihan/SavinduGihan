@@ -17,12 +17,12 @@ Interested in **Software Development, Web Technologies, Embedded Systems, Roboti
 
 ## 👨🏽‍💻 About Me
 
-* 🎓 **2nd Semester IT Undergraduate** at the **University of Moratuwa**
-* 💻 Completed my foundational **C programming** studies
-* 🌐 Currently learning **JavaScript, HTML & CSS**
-* ⚙️ Exploring **Embedded Systems, Robotics & Microcontrollers**
-* 🧠 Developing my **Problem-Solving & DSA** skills
-* 🧩 Practicing programming through **LeetCode**
+* 🎓 **2nd Semester Information Technology Undergraduate** at the **University of Moratuwa**
+* 💻 Building a strong foundation in **C, Python, and JavaScript**
+* 🌐 Learning **Web Development with JavaScript, HTML & CSS**
+* ⚙️ Exploring **Embedded Systems, Microcontrollers, and Robotics**
+* 🧠 Strengthening my **Problem-Solving and Data Structures & Algorithms** skills
+* 🧩 Practicing algorithmic problem solving through **LeetCode**
 * 🚀 Enjoy building practical projects and learning through hands-on experience
 
 ---
@@ -39,8 +39,9 @@ Interested in **Software Development, Web Technologies, Embedded Systems, Roboti
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### ⚙️ Embedded Systems
+### ⚙️ Embedded Systems & Robotics
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
 
@@ -56,9 +57,9 @@ Interested in **Software Development, Web Technologies, Embedded Systems, Roboti
 
 ### 🤖 Dual-Robot Manual Combat System
 
-**Battle Bit** is a university microcontroller-based project combining **robotics, embedded systems, electronics, wireless communication, and mechanical design**.
+**Battle Bit** is a university microcontroller-based robotics project combining **embedded systems, electronics, wireless communication, and mechanical design**.
 
-The system consists of **two independently controlled combat robots**, each paired with a dedicated **ESP32 remote controller**.
+The project consists of **two independently controlled robots**, each paired with a dedicated **ESP32-based remote controller**.
 
 ### 🤖 Robot System
 
@@ -73,8 +74,8 @@ The system consists of **two independently controlled combat robots**, each pair
 ### 🎮 Remote Controller
 
 * 🖥️ OLED display for real-time information
-* ❤️ Health monitoring
-* 🔋 Battery and system status
+* ❤️ Health and system monitoring
+* 🔋 Battery status
 * 📡 Wireless communication status
 * 🕹️ Joystick controls
 * ⚔️ Combat controls
@@ -101,13 +102,20 @@ Personal coding practice, experiments, and projects developed to strengthen prog
 
 ### 🧩 [LeetCode Solutions](https://github.com/SavinduGihan/LeetCode-Solutions)
 
-A collection of solutions and practice from my journey through algorithmic problem solving.
+A collection of solutions and practice focused on **algorithms, data structures, and problem solving**.
+
+### 🏠 [CampusNest – Smart Hostel Management System](https://github.com/SavinduGihan/CampusNest-Smart-Hostel-Management-System)
+
+A console-based **Smart Hostel Management System** developed in C as a group project for **IN1101 – Programming Fundamentals**.
+
+The system includes **Student, Room, Fee, Visitor, and Maintenance Management** modules.
 
 ---
 
 ## 🚀 Currently Learning
 
-* 🟨 **JavaScript & Web Development**
+* 🟨 **JavaScript**
+* 🌐 **Web Development**
 * 🧩 **Data Structures & Algorithms**
 * 🧠 **Problem Solving**
 * ⚙️ **Embedded Systems & Microcontrollers**
@@ -118,12 +126,12 @@ A collection of solutions and practice from my journey through algorithmic probl
 
 ## 🎯 Goals
 
-* 🚀 Build practical and meaningful software & hardware projects
+* 🚀 Build practical and meaningful software and hardware projects
 * 🧠 Strengthen my computer science fundamentals
 * 🧩 Develop strong problem-solving and DSA skills
-* 🌐 Become proficient in modern web development
+* 🌐 Become proficient in **JavaScript and modern web development**
 * ⚙️ Gain deeper experience in embedded systems and robotics
-* 📈 Continuously improve as a developer
+* 📈 Continuously grow as a developer
 
 ---
 
@@ -152,6 +160,6 @@ A collection of solutions and practice from my journey through algorithmic probl
 
 <br><br>
 
-⭐ **Thanks for visiting my profile !**
+⭐ **Thanks for visiting my profile!**
 
 </div>
